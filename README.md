@@ -19,5 +19,4 @@ Este repositorio forma parte de una **prueba técnica interna para candidatos al
 Para compilar localmente:
 
 ```bash
-cd parkinglot
 mvn clean install
